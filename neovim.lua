@@ -25,6 +25,11 @@ return {
 				},
 			},
 		})
-		vim.cmd("colorscheme carbonfox")
 	end,
+	{
+		"LazyVim/LazyVim",
+		opts = {
+			colorscheme = "carbonfox",
+		},
+	},
 }
