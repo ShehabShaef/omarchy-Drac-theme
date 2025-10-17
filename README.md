@@ -27,7 +27,7 @@ This repository contains the configurations and styles that bring the **Drac** t
 - 🐧 **Hyprland** – Window manager setup  
 - 🧭 **Waybar** – Status bar styling  
 - 🔒 **Hyprlock** – Lock screen aesthetics
-- 🐈‍⬛ **Kitty** - Feature rich terminal
+- 🐈‍⬛ **Kitty** – Feature rich terminal
 - 🧩 **Ghostty** – Terminal look and feel  
 - 🦇 **Alacritty** – Fast terminal with Drac colors  
 - 🎛️ **Btop** – System monitor with themed palette  
@@ -80,7 +80,9 @@ I use a group of packages for my theme:
 - 📁 **Folder Icons** - Reversal Blue Dark
 - 💻 **GTK Theme** - Sweet Ambar Blue Dark v40
 
-> Note: All these are not include in this repo. I used in this repo the **Yaru-blue*. If you want know anything about these feel free to contact.
+> Note: These are **not included** in this repo.  
+> The GTK setup here uses **Yaru-Blue**.  
+> Feel free to contact me if you’d like details or help setting them up.
 
 ---
 
@@ -96,12 +98,11 @@ omarchy-theme-install https://github.com/ShehabShaef/omarchy-drac-theme
 ### 🧭 Contact & Collaboration
 
 If you have:
+- 💬 Questions about integrating the theme  
+- 🧩 Requests for additional Drac-compatible configs  
+- 🐾 Interest in other dotfiles or Omarchy themes  
 
-Questions about integrating the theme
-Requests for additional Drac-compatible configs
-or Other dotfiles you interested in
-
-Feel free to reach out or open an issue.
+Feel free to **reach out** or open an **issue**.  
 Let’s grow the Omarchy world together. 🐉
 
 ---
@@ -115,3 +116,8 @@ If you remix or build upon this, please credit Omarchy and link back to this rep
 
 > “From calm waters, wisdom flows —
 > From blue light, creation grows.” 🌊
+
+<p align="center">
+  <sub>Part of the <b>Omarchy Theme Series</b> 🜂</sub><br/>
+  <sub>Crafted with ⚙️, 🎨, and 🐉 by <a href="https://github.com/ShehabShaef">Shehab Shaef</a></sub>
+</p>
