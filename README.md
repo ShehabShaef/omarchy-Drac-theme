@@ -17,6 +17,7 @@
 
 **Omarchy Drac** is the **Blue Dragon** of the Omarchy realm — a deep, balanced theme built around harmony, focus, and elegant energy.  
 It fuses **modern minimalism** with **mythic design** to create a seamless visual and coding experience across your entire Linux setup.
+The fonts — **Roboto** and **Roboto Mono** — give the Drac theme a modern, balanced tone that matches its calm yet powerful aesthetic.
 
 This repository contains the configurations and styles that bring the **Drac** theme to life across multiple applications.
 
